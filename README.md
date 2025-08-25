@@ -117,7 +117,6 @@ Mark!t은 외국인 관광객들의 물음표를 느낌표로 바꿔줄 전통�
             </td>
             <td>
                   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-                  <img src="https://img.shields.io/badge/Vanilla extract-ccfbf1">
               <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
             </td>
         </tr>
@@ -140,13 +139,12 @@ Mark!t은 외국인 관광객들의 물음표를 느낌표로 바꿔줄 전통�
               <img src="https://img.shields.io/badge/Yarn Berry-2C8EBB?logo=yarn&logoColor=ffffff">
             </td>
         </tr>
-                <tr>
+        <tr>
             <td>
                 <p>배포</p>
             </td>
             <td>
               <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-              
             </td>
         </tr>
         <tr>
